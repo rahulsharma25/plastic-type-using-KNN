@@ -1,0 +1,66 @@
+.bg-container {
+    min-height: 100vh;
+    background-color: #222831;
+}
+
+.heading {
+    font-family: "Merriweather", serif;
+    font-size: 50px;
+    color: #EEEEEE;
+}
+
+.form-bg {
+    box-shadow: 5px 5px #00ADB5;
+    background-color: #393E46;
+    width: 40%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 16px;
+    border-color: #EEEEEE;
+}
+
+.label-text{
+    text-align: left;
+    color: #00ADB5;
+    font-family: "Arial", serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.input-box {
+    padding-top: 0px;
+    padding-bottom: 3px;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #222831;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color:#222831;
+    border: 1px solid #00ADB5;
+    color: #EEEEEE;
+}
+
+.prediction {
+    color: #00ADB5;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.outer-box {
+    width: 100%;
+}
+
+.outer-box-2 {
+    width: 40%;
+}
+
+.inner-box {
+    width: 40%;
+}
